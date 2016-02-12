@@ -3,9 +3,13 @@
 Demos the new Android Design library showing some of the important features in the Design library:
 
 Collapsing Toolbar
+
 FloatingActionButton
+
 View anchoring
+
 NavigationView
+
 Snackbar
 
 
